@@ -10,4 +10,5 @@ or (http.user_agent eq "Empty user agent")
 or (http.user_agent contains "HTTrack") 
 or (http.user_agent contains "bxss") 
 or (http.user_agent contains "nmap")
+or (http.user_agent contains "masscan")
 ```
