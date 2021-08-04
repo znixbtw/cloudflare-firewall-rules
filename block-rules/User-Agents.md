@@ -1,8 +1,6 @@
 # User Agents
 
-No external software should be allowed to interact with your website. Thus blocked.
-
-### Use the following expression to block such user agents:
+### Use the following expression to Block:
 
 ```
 (http.user_agent eq "")
