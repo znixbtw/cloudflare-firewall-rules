@@ -11,4 +11,7 @@ or (http.user_agent contains "HTTrack")
 or (http.user_agent contains "bxss")
 or (http.user_agent contains "nmap")
 or (http.user_agent contains "masscan")
+or (http.user_agent contains "python")
+or (http.user_agent contains "Go-http")
+or (http.user_agent contains "curl")
 ```
