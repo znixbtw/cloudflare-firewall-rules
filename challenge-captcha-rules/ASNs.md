@@ -3,7 +3,7 @@
 ### Use the following expression to Captcha Challenge:
 
 ```
-(ip.geoip.asnum in {16509 14618 14061 16276 51167 141995 8075 24940 136907 4808 9394 9808 37963 134772 136199 8452 8100 9009 208294 41281 39369 })
+(ip.geoip.asnum in {16509 14618 14061 16276 51167 141995 8075 24940 136907 4808 9394 9808 37963 134772 136199 8452 8100 9009 39369 })
 ```
 
 ### Info:
@@ -28,6 +28,4 @@
 | 8452   | TE-AS                                            |
 | 8100   | QuadraNet Enterprises LLC                        |
 | 9009   | M247 Ltd                                         |
-| 208294 | CIA TRIAD SECURITY LLC                           |
-| 41281  | KeFF Networks Ltd                                |
 | 39369  | Availo Networks AB                               |
