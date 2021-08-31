@@ -1,6 +1,4 @@
-# cloudflare-firewall
-
-Firewall rules for cloudflare.
+# Firewall rules for cloudflare.
 
 ### Rules
 
