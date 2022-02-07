@@ -3,7 +3,7 @@
 ### Use the following expression to Block:
 
 ```
-(ip.geoip.asnum in {45090 37963 8100 39369 16509 14618 14061 16276 51167 141995 8075 24940 136907 63949 211252 266935 395954})
+(ip.geoip.asnum in {45090 37963 8100 39369 16509 14618 14061 16276 51167 141995 8075 24940 136907 63949 211252 266935 395954 15169})
 ```
 
 ### Info:
@@ -27,3 +27,4 @@
 | 211252 | Delis LLC                                         |
 | 266935 | CENTROSULNET INFORMATICA EIRELI                   |
 | 395954 | Leaseweb USA, Inc.                                |
+| 15169  | Google LLC                                        |
