@@ -16,4 +16,5 @@ or (http.user_agent contains "Go-http")
 or (http.user_agent contains "curl")
 or (http.user_agent contains "PycURL")
 or (http.user_agent contains "censys")
+or (http.user_agent contains "CheckHost")
 ```
